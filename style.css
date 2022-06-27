@@ -1,0 +1,27 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(255, 255, 255)
+	;
+}
+a.hah {
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+button {
+	border-radius: 10px;
+	border: none;
+	color: #fff;
+	background: linear-gradient(rgb(41,41,41) 0%, rgb(134, 0, 0) 100%);
+}
+h2 {
+	color: #fff;
+}
+body {
+	background: #000 url(./images/background.jpg);
+	background-size: cover;
+}
+.map {
+    display: flex;
+    justify-content: center;
+
+}

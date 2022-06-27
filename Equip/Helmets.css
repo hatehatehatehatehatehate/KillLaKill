@@ -1,0 +1,27 @@
+body {
+	background: #000 url(./images/background.jpg);
+	background-size: cover;
+}
+h1 {
+	color: #ffffff;
+}
+.row{
+	display: flex;
+	justify-content:space-between;
+}
+.list{
+	margin: 23px;
+	border: solid 0.2px rgb(69, 202, 255);
+	border-radius: 10px;
+	overflow: hidden;
+	height: 22px;
+	transition: all 0.3s ease;
+}
+
+.list:hover{
+	height: 100px;
+}
+h1 {
+	color: #ffffff;
+	margin-top: 100px;
+}
